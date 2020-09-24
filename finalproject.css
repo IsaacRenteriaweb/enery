@@ -1,0 +1,36 @@
+h1{
+	text-align: center;
+	color:green;
+}
+img{
+    width: 300px;
+    display: inline-block;
+    align-content: center;
+    padding:1%;
+    margin-left:5%;
+    height: 200px;
+}
+body{
+    background-color: honeydew;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    width: 400px;
+    font-size:large;
+    box-sizing: border-box;
+    background-color: greenyellow;
+    margin-left: 1%;
+}
+section{
+    margin:1%;
+    padding:1%;
+    width: 300px;
+    display: inline-block;
+  }
+footer a{
+    text-decoration: none;
+
+}
+
